@@ -10,12 +10,14 @@ I'm a passionate software engineer and technology enthusiast with a strong inter
 Building algorithmic trading and automation solutions using Python and MetaTrader 5.
 Developing software projects that integrate data analysis, machine learning, and financial technologies.
 Expanding my portfolio through practical software engineering and research-driven projects.
+
 🌱 Learning & Exploration
 Artificial Intelligence and Machine Learning
 Cloud Computing and DevOps Practices
 Advanced Python Development
 Software Architecture and System Design
 Financial Technology (FinTech) Applications
+
 ⚡ Core Interests
 Artificial Intelligence & Machine Learning
 Data Science & Analytics
