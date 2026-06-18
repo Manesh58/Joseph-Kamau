@@ -4,11 +4,26 @@
 
 # Hi there, I'm Joseph Kamau 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I'm a passionate software engineer and technology enthusiast with a strong interest in building intelligent systems, automation tools, and data-driven applications. I enjoy solving complex problems through code, exploring emerging technologies, and developing solutions that create real-world impact.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+🔭 Current Focus
+Building algorithmic trading and automation solutions using Python and MetaTrader 5.
+Developing software projects that integrate data analysis, machine learning, and financial technologies.
+Expanding my portfolio through practical software engineering and research-driven projects.
+🌱 Learning & Exploration
+Artificial Intelligence and Machine Learning
+Cloud Computing and DevOps Practices
+Advanced Python Development
+Software Architecture and System Design
+Financial Technology (FinTech) Applications
+⚡ Core Interests
+Artificial Intelligence & Machine Learning
+Data Science & Analytics
+Algorithmic Trading
+Software Engineering
+Cloud Infrastructure
+Cybersecurity
+Automation Systems
 
 ---
 
